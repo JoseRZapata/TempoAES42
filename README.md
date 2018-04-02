@@ -1,6 +1,6 @@
 # AES 42 Tempo Evaluation Data
 
-In this github repo you will find a jupyter notebook with the results from the audio tempo evaluation presented in:
+This repo contains the code in a jupyter notebook to reproduce all of the analyses from the audio tempo evaluation paper:
 
 Zapata, Jose R.; Gómez, Emilia.
 **"Comparative Evaluation and Combination of Audio Tempo Estimation Approaches"**,
@@ -9,6 +9,8 @@ AES 42nd International Conference: Semantic Audio, Ilmenau, Germany. pp. 198 - 2
 http://www.aes.org/e-lib/browse.cfm?elib=15964
 
 [Download paper](http://mtg.upf.edu/system/files/publications/Audio_tempo_comparison_Zapata_Gomez.pdf)
+
+##
 
 ## ABSTRACT
 The automatic analysis of musical tempo from audio is still an open research task in the Music Information Retrieval
