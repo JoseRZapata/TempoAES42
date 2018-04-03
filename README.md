@@ -1,14 +1,15 @@
 # AES 42 Tempo Evaluation Data
 
-This repo contains the code in a jupyter notebook to reproduce all of the analyses from the audio tempo evaluation paper:
+This repo contains the code in a [jupyter notebook](https://github.com/JoseRZapata/TempoAES42/blob/master/TempoEvaluationAES42.ipynb) to reproduce all of the analyses from the audio tempo evaluation paper:
 
 Zapata, Jose R.; Gómez, Emilia.
 **"Comparative Evaluation and Combination of Audio Tempo Estimation Approaches"**,
 AES 42nd International Conference: Semantic Audio, Ilmenau, Germany. pp. 198 - 207, Jul 2011.
 
-http://www.aes.org/e-lib/browse.cfm?elib=15964
+- http://www.aes.org/e-lib/browse.cfm?elib=15964
 
-[Download paper](http://mtg.upf.edu/system/files/publications/Audio_tempo_comparison_Zapata_Gomez.pdf)
+- [Download paper](http://mtg.upf.edu/system/files/publications/Audio_tempo_comparison_Zapata_Gomez.pdf)
+- [Jupyter Notebook -> TempoEvaluationAES42.ipynb](https://github.com/JoseRZapata/TempoAES42/blob/master/TempoEvaluationAES42.ipynb)
 
 ##
 
