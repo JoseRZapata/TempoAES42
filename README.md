@@ -1,4 +1,4 @@
-# AES 42 Tempo Evaluation Data
+# AES 42 Audio Tempo Evaluation Data
 
 This repo contains the code in a [jupyter notebook](https://github.com/JoseRZapata/TempoAES42/blob/master/TempoEvaluationAES42.ipynb) to reproduce all of the analyses from the audio tempo evaluation paper:
 
